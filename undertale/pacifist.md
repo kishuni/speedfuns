@@ -11,7 +11,7 @@
 -----
 
 ## Tricks and info
-- Holding `UP` + `DOWN` while against an upper wall allows you to rapidly swap between facing up and down, which is good for battle hunting.
+- Wallhumping: Holding `UP` + `DOWN` while against an upper wall allows you to rapidly swap between facing up and down, which is good for battle hunting.
 - Holding `X / SHIFT` while in battle allows your SOUL to move slower.
 - SAVE sparingly.
 - Rapidly hitting `Z / ENTER` and `X / SHIFT` allows rapid text though most dialogue.
@@ -30,10 +30,11 @@ Name the Fallen Human a one character name.
 
 Enemy | `ACT` | Notes
 :---- | :---- | :----
-Froggit | `Compliment` | It is faster to hit the frog than wait for it to leap.
-Whimsun | `Terrorize` |
-Moldsmal | `Flee` | *Isn't this an instant `SPARE`?*
-Napstablook | `Cheer` | *Really not feelin up to it right now. Sorry.*
+Froggit | `Compliment+Spare | Flee` | It is faster to hit the frog than wait for it to leap. 2G for sparing tactic.
+Whimsun | `Terrorize+Spare | Flee` | 2G for sparing tactic.
+Moldsmal | `Imitate+Spare | Spare` | 1G for imitating before sparing. Always faster to Spare than Flee.
+Napstablook | `Cheer+Cheer+Cheer+Flirt` | *Really not feelin up to it right now. Sorry.*
+Loox | `Flee` |
 Vegetoid | `Flee` |
 
 ### Flowey
@@ -42,11 +43,17 @@ Vegetoid | `Flee` |
 ### Dummy
 - `ACT`: `Talk`
 
-You will need `7 GOLD` by the time you get to the Spider Bakesale to purchase a Spider Donut. Three battles should be fine before then.
+You will need `7 GOLD` by the time you get to the Spider Bakesale to purchase a Spider Donut. Four battles are needed.
 
 Run from the Froggit in the Spike puzzle room.
 
-The pie question does not matter. Just mash through it.
+After being given the CELL, get 2G in the next room.
+
+The room after, Wallhump to force another encounter for 2G.
+
+In the room with the first rock, the Pie question does not matter. Just mash through it. Force an encounter to get 2G.
+
+In the room with the three rocks, go to the bottom of the rock and talk to it twice. Make a roundabout to the back of the rock such that the third time you talk to it you get pushed towards the spikes. Reset the spikes and move back to the right side of the rock; if lucky, you can force an encounter AND also talk to the rock before the `FIGHT` begins. The worst encounter you can possibly get in this room is 2 Froggits since you must take 2 cycles. Otherwise get at least 1G through one turn and then keep moving.
 
 Pick up the `Faded Ribbon` in the last pitfall room.
 
@@ -62,17 +69,19 @@ Sleep immediately.
 
 Pick up the `Butterscotch Pie`.
 
-When mashing through Toriel's text, listen to the bit on snails first and select `How to exit the RUINS` on the final prompt.
+When mashing through Toriel's text, listen to the bit on snails first (2 dialogue prompts) and select `How to exit the RUINS` on the third and final prompt.
 
 Enemy | `ACT`
 :---- | :----
 Toriel | `Spare`
 
-> Hit the hand attacks. These are the fast ones.
+> Hit the hand attacks. These are the fast ones. Ideally you can skip 5 of these.
 
 > Hang around the upper left corner for the other fire vortex attacks.
 
-> Getting to `2 HP` will force Toriel to not attack you.
+> Getting to `2 HP` will force Toriel to not attack you. This is your 6th possible skip in the fight.
+
+The best time possible for this segment is around 7:40, give or take a few seconds.
 
 ## Path to Snowdin
 
@@ -91,13 +100,15 @@ Pick up the `Tough Glove` from the `Box` and equip it.
 
 No need to check the crossword puzzle.
 
-Hit the switch before the Married Dogs.
+Hit the switch before the Married Dogs. Make sure to flee from the Lesser Dog.
 
-Hit the switch in the three with the large X/O puzzle.
+Hit the switch in the tree with the large X/O puzzle.
+
+The ice sliding puzzle has a specific strategy that saves 1 second as opposed to simply doing the cinnamon swirl solution. Look at the current record video to see how to do this.
 
 Say that `No` and `Even less` to the questions in the Colored Block puzzle room.
 
-## Showdin Town
+## Snowdin Town
 
 Purchase the `Manly Bandanna (50 GOLD)` in the Shop. Don't equip it yet.
 
@@ -138,7 +149,7 @@ You can manipulate these spears by moving all the way up or all the way down in 
 
 ### Dummy!
 - Mash `SPARE`.
-- Hit him with as much cotton as possible. He can be three-cycled.
+- Hit him with as much cotton as possible. He can be three-cycled, although this is difficult.
 - Unlike the cotton, which is hit-based, the rockets are move-based.
 - Hit the knife to get rid of it faster.
 
@@ -153,7 +164,6 @@ Do not help Monster Kid from the bridge. It's faster. (Sorry!)
 ### Undyne
 - Hit `Challenge` as it makes the spears go faster.
 - `Flee` ASAP.
-- During the final phase, you may want to use `Check` instead of `Challenge` so that you don't die like a bitch.
 - During the final phase, you want to finish off at `1 HP` by getting hit by three arrows and a spear at the end. This makes MTT's quiz go faster.
 
 Be sure to water your Undyne!
@@ -226,8 +236,8 @@ The Puzzle *is* completable, will upload a map later. The best known time remain
 
 Enemy | `ACT` | Notes
 :---- | :---- | :----
-Madjick | `Talk` |
-Astigmatism | `Flee` |
+Madjick | `Talk+Spare` |
+Astigmatism | `Flee` | May fail if you don't menu quickly enough.
 
 Go right when Alphys told you to go up (you have played the game, right??).
 
@@ -258,7 +268,7 @@ Mash through everything while getting the keys. Do you really need a guide for t
 
 Grab the `Worn Dagger`.
 
-Equip the `Stained Apron` and the `Worn Dagger`.
+Equip the `Stained Apron` and the `Worn Dagger`. Drop a single item.
 
 `SAVE` before Judgement.
 
@@ -282,7 +292,7 @@ Once you see the first bit of dialogue with Sans, you can quit the game and relo
 - Phase 6: Close and reload the game as soon as the bullets turn into flowers.
 - Don't die?????????
 
-`FIGHT` him afterwards, it's faster.
+`FIGHT` him afterwards, it's faster. Immediately close and restart the game once the first letter pops up from Flowey.
 
 The instant you see UNDERTALE after entering the door, you can close the game and restart to skip the credits.
 
@@ -304,11 +314,11 @@ Head to True Lab.
 
 Enemy | `ACT` | Notes
 :---- | :---- | :----
-Amalgamate (Sink) | `CELL`, `Refuse` |
-Amalgamate (Dog) | `Stick` |
-Amalgamate (Save) | `Unhug`, `Hum`, `Flex` |
-Amalgamate (Fridge) | `Joke`, `Joke`, `Joke` |
-Amalgamate (Mirror) | `Pray`, `Mystify`, `Pick On` |
+Amalgamate (Sink) | `CELL+Refuse+Spare` |
+Amalgamate (Dog) | `Stick+Spare` |
+Amalgamate (Save) | `Unhug+Hum+Flex+Spare` |
+Amalgamate (Fridge) | `Joke+Joke+Joke` |
+Amalgamate (Mirror) | `Pray+Mystify+Pick On+Spare` |
 
 Go left first to fight the Sink Amalgamate and grab the key.
 
@@ -337,7 +347,7 @@ Mash through everything.
 Wait for the music to kick in (rainbow effects), then `Hope` every time. Don't die and stuff.
 
 ### Asriel Dreemurr Kai Ni
-`Struggle` for 4 turns. If you got hit by a diamond in the previous phase, you will start at 1/20 HP. If so, kill yourself on turn 1, survive turns 2 and 3, then kill yourself on turn 4. If you do NOT get hit by the diamond, pray that you don't die at all.
+`Struggle` for 4 turns. If you got hit by a diamond in the previous phase, you will start at 1/20 HP. If so, kill yourself on turn 1, survive turns 2 and 3, then kill yourself on turn 4. If you do NOT get hit by the diamond, pray that you don't die at all. Remember - dying the first time loses 10 seconds, but if you would probably die anyways, save yourself the time and kill yourself at the start of the attack.
 
 `SAVE` your friends!
 
