@@ -55,7 +55,7 @@ In the room with the first rock, the Pie question does not matter. Just mash thr
 
 In the room with the three rocks, go to the bottom of the rock and talk to it twice. Make a roundabout to the back of the rock such that the third time you talk to it you get pushed towards the spikes. Reset the spikes and move back to the right side of the rock; if lucky, you can force an encounter AND also talk to the rock before the `FIGHT` begins. The worst encounter you can possibly get in this room is 2 Froggits since you must take 2 cycles. Otherwise get at least 1G through one turn and then keep moving.
 
-Pick up the `Faded Ribbon` in the last pitfall room.
+Pick up the `Faded Ribbon` in the last pitfall room (bottom left hole).
 
 In case you don't remember, the Perspective Rooms (in order):
 - Top column
@@ -115,13 +115,13 @@ Purchase the `Manly Bandanna (50 GOLD)` in the Shop. Don't equip it yet.
 Take the Underground Tunnel to the other side of town.
 
 ### Papyrus
-It is faster to let him capture you three times (by 45 seconds!).
+It is faster to let him capture (kill) you three times (by 45 seconds!).
 
 Head back to his home to hang out with him.
 
 Go straight to his room and talk with him.
 
-Mash through the hangout. It's faster to not eat the spaghetti, but the menuing is difficult.
+Mash through the hangout. If he's staring at you, press C to advance. It's faster to not eat the spaghetti, but the menuing is difficult.
 
 Select his hat. Platonically.
 
@@ -135,7 +135,7 @@ Moldsmal | `Spare` |
 Shyren | `Flee` |
 Temmie | `fLE E!!` |
 
-Pick up the `Old Tutu` in the room after Sans.
+Pick up the `Old Tutu` in the room after Sans (behind the waterfall).
 
 In the final lilypad room, drop them upwards using the downmost ledge.
 
@@ -194,7 +194,7 @@ Up, Left, Down, Left, Fire
 - When placing food, place it leftmost to prevent mashing through to talking with MTT.
 - Best time for Human SOUL substitute is 15 seconds on the dot.
 
-Pick up the `Stained Apron`.
+Pick up the `Stained Apron` (downward path after going up).
 
 In case you forgot, left, down, down, up down, left, up, up, left.
 
