@@ -18,7 +18,8 @@
 - Battle notes below will not include `MERCY`: `Spare`. It is assumed unless otherwise stated.
 
 ## These Notes
-- Written from the current [WR by Celestics](http://www.twitch.tv/celestics/v/19983842) as linked.
+- Written from the current [WR by Celestics](https://www.youtube.com/watch?v=yYbMA_jgv2M) as linked. 
+- (As of writing, time is 1:53:35.)
 
 -----
 
@@ -42,6 +43,8 @@ Vegetoid | `Flee` |
 
 ### Dummy
 - `ACT`: `Talk`
+
+Wallhump for the switches to save time.
 
 You will need `7 GOLD` by the time you get to the Spider Bakesale to purchase a Spider Donut. Four battles are needed.
 
@@ -77,7 +80,7 @@ Toriel | `Spare`
 
 > Hit the hand attacks. These are the fast ones. Ideally you can skip 5 of these.
 
-> Hang around the upper left corner for the other fire vortex attacks.
+> Hang around the upper left corner for the other fire vortex attacks. (Avoid them so you can get hands.)
 
 > Getting to `2 HP` will force Toriel to not attack you. This is your 6th possible skip in the fight.
 
@@ -108,6 +111,8 @@ The ice sliding puzzle has a specific strategy that saves 1 second as opposed to
 
 Say that `No` and `Even less` to the questions in the Colored Block puzzle room.
 
+If you get the BARK BARK attack from Greater Dog, you can skip it by running into the dog at the bottom.
+
 ## Snowdin Town
 
 Purchase the `Manly Bandanna (50 GOLD)` in the Shop. Don't equip it yet.
@@ -121,9 +126,11 @@ Head back to his home to hang out with him.
 
 Go straight to his room and talk with him.
 
-Mash through the hangout. If he's staring at you, press C to advance. It's faster to not eat the spaghetti, but the menuing is difficult.
+Mash through the hangout. If he's staring at you, mash C to advance. 
 
 Select his hat. Platonically.
+
+It's faster to not eat the spaghetti, but the menuing is difficult.
 
 ## Waterfall
 
@@ -143,6 +150,8 @@ In the final lilypad room, drop them upwards using the downmost ledge.
 Dodge the spears???
 
 No need for the umbrella. Just wastes time.
+
+Wallhumping through castle is faster.
 
 ### Undyne Spears 2: The Reckoning
 You can manipulate these spears by moving all the way up or all the way down in a sort of zig-zag pattern.
@@ -176,12 +185,13 @@ Vulkin | `Flee` |
 Tsunderplane | `F-Flee!` |
 Pyrope | `Flee` |
 
+Go to the top so when Alphys comes out of the elevator, it saves walking time. Same for after the fight, walk towards the top.
 
 ### Mettaton Quiz
 - Hit `[A] Money` to skip to the last question and end the battle.
 - `[A] Undyne` for the final question is the fastest.
 
-Save after the Lab to heal to full.
+Save after the Lab to heal to full. There's a save point two maps after the lab.
 
 ### Slide Puzzle 1 (Right)
 Up, Left, Fire
@@ -196,7 +206,10 @@ Up, Left, Down, Left, Fire
 
 Pick up the `Stained Apron` (downward path after going up).
 
+### Jumping Puzzle
 In case you forgot, left, down, down, up down, left, up, up, left.
+- Alternatively, there's a glitch you can do that requires you to open the menu the same frame(?) you land on the platform. http://webm.host/b71a6/
+- Consistent setup I found (for me) was mashing CTRL/C as you land onto the platform.
 
 ### Royal Guard
 - `Clean Armor` for Guard 02.
@@ -209,9 +222,9 @@ In case you forgot, left, down, down, up down, left, up, up, left.
 - You can spam Z+ENTER on the Present and Basketbomb to attack them on the instant the fight starts, which will defuse them.
 - The best known time is a 61 upon ending the final bomb.
 
-Say `No...` to watching anime with Alphys (it's literally garbage??).
+Say `No...` to watching anime with Alphys. Sorta tricky to hit this if you're mashing but it saves time if you take a moment to GUARANTEE you hit it. Anime is garbage tho
 
-Hitting the second laser is fast!
+Hitting the second laser (downward puzzle) is faster!
 
 ### Slide Puzzle 3 (Down)
 Left, Up, Left, Left, Right, Fire
@@ -229,6 +242,7 @@ Enter the MTT Musical with the first bit of dialogue, quit the game and reload. 
 ### Musical Puzzle
 The Puzzle *is* completable, will upload a map later. The best known time remaining is 10.
 
+
 ### Mettaton Fight 2
 - Just attack him once!
 
@@ -239,7 +253,11 @@ Enemy | `ACT` | Notes
 Madjick | `Talk+Spare` |
 Astigmatism | `Flee` | May fail if you don't menu quickly enough.
 
+Blue Blue Orange
+
 Go right when Alphys told you to go up (you have played the game, right??).
+
+At the save point, go left immediately. Then down back to it, up, right, right. Saving at Mettaton wastes time but can be used as a safe strat if you're learning the route.
 
 Go left, then left again towards the puzzle.
 
@@ -250,6 +268,7 @@ Down, Left, Down, Left, Down, Left, Up, Left, Fire.
 
 ### Mettaton Kai Ni
 - Don't fire first turn. Saves dialogue time.
+- Check last turn (boxes with bomb in middle as last attack). Saves time.
 
 # `OHHHHH YES!`
 - You need 12k ratings to finish the battle. You start with 4k.
@@ -260,24 +279,29 @@ Down, Left, Down, Left, Down, Left, Up, Left, Fire.
 - Equip the `Stained Apron (+1500 > 11500)`. Do this last so you don't have to later.
 - The extra 500 points need to be earned by shooting the bombs, MTT minis, squares, and hands. Getting hit gives points.
 - Typing `legs` during the essay gives `+350 > 11850`. 150 points should not be difficult to obtain otherwise.
+- `toby` makes the dialog faster. Type both.
 
 The battle should be over by now.
 
 ## New Home
-Mash through everything while getting the keys. Do you really need a guide for this???
+Mash through everything, as slow as it is. Go to the left key first, saves movement time...or does it?
 
-Grab the `Worn Dagger`.
+Grab the `Worn Dagger`. (Box on the left)
 
 Equip the `Stained Apron` and the `Worn Dagger`. Drop a single item.
+- Provided you did the Mettaton fight correctly, you'll only have to equip the `Worn Dagger`.
 
 `SAVE` before Judgement.
 
 Once you see the first bit of dialogue with Sans, you can quit the game and reload to spam skip the text.
+- Celestics doesn't do this in the WR, probably slower to quit out. Try what you want to.
 
 `SAVE` before the Asgore fight.
 
 ### Asgore
 - Eat the Butterscotch Pie to lower his defense.
+- Don't choke.
+- Reminder that blue is stand still, orange is move.
 
 `FIGHT` Asgore after the fight, as it is faster.
 
@@ -288,7 +312,7 @@ Once you see the first bit of dialogue with Sans, you can quit the game and relo
 - Phase 2: Top left of the room for the `ACT` during the gloves.
 - Phase 3: All the way to the right to get to the `ACT`.
 - Phase 4: Above the middle for `ACT`, RNG on whether it appears from the left or right.
-- Phase 5: Middle pan for the `ACT`. You can move above the pan for this.
+- Phase 5: Middle pan for the `ACT`. You can move above the pan for this. (12 waves, I think?)
 - Phase 6: Close and reload the game as soon as the bullets turn into flowers.
 - Don't die?????????
 
@@ -301,7 +325,7 @@ Head to Waterfall with the Riverman (or the Riverwoman?).
 ## Underground Dating Simulator
 
 ### Undyne Date
-Mash through it.
+Select the tea when prompted (furthest right). Otherwise, mash through it.
 
 Take the letter to Alphys' Lab.
 
@@ -321,6 +345,8 @@ Amalgamate (Fridge) | `Joke+Joke+Joke` |
 Amalgamate (Mirror) | `Pray+Mystify+Pick On+Spare` |
 
 Go left first to fight the Sink Amalgamate and grab the key.
+- Mash at the first sink instead of turning all three on.
+- If you get hit make sure you have full HP before going into the second part of the lab.
 
 Get the key from the bed.
 
@@ -330,18 +356,22 @@ Grab the Shower key and head left.
 
 Fight the Save Amalgamate. Head left.
 
-Check the left fridge, and attempt to walk away. Fight the Fridge Amalgamate.
+Check the left fridge, and attempt to walk away (to the left). Fight the Fridge Amalgamate.
 
 Grab the Blue Key on the way back to the Bedroom. Insert the Yellow key on the way back as well.
 
 Head right from the Bedroom.
 
-Head right, fight the Mirror Amalgamate, insert the key and head back to the Power Room. Mash through the rest and head back to the elevator.
+Head right, fight the Mirror Amalgamate.
+- For the last phase, if you go behind the body, the heads won't hit you.
+
+Insert the key and head back to the Power Room. Mash through the rest and head back to the elevator.
 
 ## The Barrier
 `SAVE` before Asgore to heal to full.
+- Only have to do this if you get hit in lab since you can't die out of the Asriel fight. Minimal waste of time otherwise.
 
-Mash through everything.
+Mash through everything. It's a lot of mashing.
 
 ### Asriel Dreemurr
 Wait for the music to kick in (rainbow effects), then `Hope` every time. Don't die and stuff.
@@ -350,7 +380,11 @@ Wait for the music to kick in (rainbow effects), then `Hope` every time. Don't d
 `Struggle` for 4 turns. If you got hit by a diamond in the previous phase, you will start at 1/20 HP. If so, kill yourself on turn 1, survive turns 2 and 3, then kill yourself on turn 4. If you do NOT get hit by the diamond, pray that you don't die at all. Remember - dying the first time loses 10 seconds, but if you would probably die anyways, save yourself the time and kill yourself at the start of the attack.
 
 `SAVE` your friends!
+- There's a pre-determined amount of actions for each `SAVE`. So you can use the same `ACT` choice twice.
+- If you use the Pie while saving Toriel and Asgore, it takes a single action after the Pie.
 
 Don't comfort Asriel. It's faster.
 
 Mash through The End.
+
+Time ends on the last text box from Toriel, in case you forgot.
