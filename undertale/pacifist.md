@@ -171,6 +171,7 @@ Memorize the pathing for the Mushroom Room and the Lantern Room.
 Do not help Monster Kid from the bridge. It's faster. (Sorry!)
 
 ### Undyne
+- New strat to skip the first dialog and encounter. http://webm.host/5d78a/
 - Hit `Challenge` as it makes the spears go faster.
 - `Flee` ASAP.
 - During the final phase, you want to finish off at `1 HP` by getting hit by three arrows and a spear at the end. This makes MTT's quiz go faster.
