@@ -281,6 +281,7 @@ Down, Left, Down, Left, Down, Left, Up, Left, Fire.
 - The extra 500 points need to be earned by shooting the bombs, MTT minis, squares, and hands. Getting hit gives points.
 - Typing `legs` during the essay gives `+350 > 11850`. 150 points should not be difficult to obtain otherwise.
 - `toby` makes the dialog faster. Type both.
+- If done right, you don't have to hit the essay at all: http://www.twitch.tv/pahchi/v/23842021
 
 The battle should be over by now.
 
