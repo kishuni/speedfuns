@@ -106,6 +106,7 @@ No need to check the crossword puzzle.
 Hit the switch before the Married Dogs. Make sure to flee from the Lesser Dog.
 
 Hit the switch in the tree with the large X/O puzzle.
+- If done correctly, you can press the switch without Papyrus' dialog triggering. He just floats across the top: http://www.twitch.tv/th3hatt3r/v/21373800
 
 The ice sliding puzzle has a specific strategy that saves 1 second as opposed to simply doing the cinnamon swirl solution. Look at the current record video to see how to do this.
 
@@ -172,6 +173,7 @@ Do not help Monster Kid from the bridge. It's faster. (Sorry!)
 
 ### Undyne
 - New strat to skip the first dialog and encounter. http://webm.host/5d78a/
+- Strat that saves ~6 seconds if your menuing is garbage, requires having bought a healing item in Snowdin: https://youtu.be/pRMu_rzQR1A
 - Hit `Challenge` as it makes the spears go faster.
 - `Flee` ASAP.
 - During the final phase, you want to finish off at `1 HP` by getting hit by three arrows and a spear at the end. This makes MTT's quiz go faster.
@@ -231,7 +233,7 @@ Hitting the second laser (downward puzzle) is faster!
 Left, Up, Left, Left, Right, Fire
 
 ### Slide Puzzle 3 (Up)
-Up, Left, Down, Left, Fire
+Left, Right, Fire
 
 ### Miss Muffet
 Eat the `Spider Donut` for an instant `SPARE`.
@@ -263,7 +265,7 @@ At the save point, go left immediately. Then down back to it, up, right, right. 
 Go left, then left again towards the puzzle.
 
 ### Slide Puzzle 5
-Down, Left, Down, Left, Down, Left, Up, Left, Fire.
+Up, Right, Up, Left, Left, Down, Left, Fire.
 
 `SAVE` here to heal to full (NOT before Mettaton).
 
@@ -314,8 +316,8 @@ Once you see the first bit of dialogue with Sans, you can quit the game and relo
 - Phase 2: Top left of the room for the `ACT` during the gloves.
 - Phase 3: All the way to the right to get to the `ACT`.
 - Phase 4: Above the middle for `ACT`, RNG on whether it appears from the left or right.
-- Phase 5: Middle pan for the `ACT`. You can move above the pan for this. (12 waves, I think?)
-- Phase 6: Close and reload the game as soon as the bullets turn into flowers.
+- Phase 5: Middle pan for the `ACT`. You can move above the pan for this. (12 waves)
+- Phase 6: Close and reload the game as soon as the bullets turn into flowers. (8 waves, third bullet of the 8th)
 - Don't die?????????
 
 `FIGHT` him afterwards, it's faster. Immediately close and restart the game once the first letter pops up from Flowey.
@@ -370,10 +372,10 @@ Head right, fight the Mirror Amalgamate.
 Insert the key and head back to the Power Room. Mash through the rest and head back to the elevator.
 
 ## The Barrier
-`SAVE` before Asgore to heal to full.
-- Only have to do this if you get hit in lab since you can't die out of the Asriel fight. Minimal waste of time otherwise.
 
 Mash through everything. It's a lot of mashing.
+
+No need to heal because the cutscene heals you.
 
 ### Asriel Dreemurr
 Wait for the music to kick in (rainbow effects), then `Hope` every time. Don't die and stuff.
