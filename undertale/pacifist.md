@@ -241,8 +241,8 @@ Go back and `SAVE`.
 Enter the MTT Musical with the first bit of dialogue, quit the game and reload. Cutscene skipped!
 
 ### Musical Puzzle
-The Puzzle *is* completable, will upload a map later. The best known time remaining is 10.
-
+- The map is completable - best time is around 10.
+- Route for the maze: http://puu.sh/l8c18/145cbafdcd.png
 
 ### Mettaton Fight 2
 - Just attack him once!
