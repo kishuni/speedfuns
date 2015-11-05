@@ -108,7 +108,7 @@ Hit the switch before the Married Dogs. Make sure to flee from the Lesser Dog.
 Hit the switch in the tree with the large X/O puzzle.
 - If done correctly, you can press the switch without Papyrus' dialog triggering. He just floats across the top: http://www.twitch.tv/th3hatt3r/v/21373800
 
-The ice sliding puzzle has a specific strategy that saves 1 second as opposed to simply doing the cinnamon swirl solution. Look at the current record video to see how to do this.
+The ice sliding puzzle has a specific strategy that saves 1 second as opposed to simply doing the cinnamon swirl solution. Look at the current record video to see how to do this. Current fastest solution: http://imgur.com/imntI5i
 
 Say that `No` and `Even less` to the questions in the Colored Block puzzle room.
 
@@ -122,6 +122,8 @@ Take the Underground Tunnel to the other side of town.
 
 ### Papyrus
 It is faster to let him capture (kill) you three times (by 45 seconds!).
+
+Do this by using "Check" 3 times and running into 5 bones in the first fight. You will start out "blue" in the next two fights, proceed to spare him as normal.
 
 Head back to his home to hang out with him.
 
@@ -154,6 +156,8 @@ No need for the umbrella. Just wastes time.
 
 Wallhumping through castle is faster.
 
+In the next room talk to Monster Kid as soon as possible, it takes just over 4 seconds from the start of the dialogue before they will offer to lift you up. How you use this time is up to preference.
+
 ### Undyne Spears 2: The Reckoning
 You can manipulate these spears by moving all the way up or all the way down in a sort of zig-zag pattern.
 
@@ -167,15 +171,16 @@ You can manipulate these spears by moving all the way up or all the way down in 
 
 Purchase the `Cloudy Glasses`.
 
-Memorize the pathing for the Mushroom Room and the Lantern Room.
+Memorize the pathing for the Mushroom Room and the Lantern Room. It is possible to avoid the encounter (Temmie) in the Mushroom Room with optimal movement. Temmie will replace the encounter in the next room instead.
 
 Do not help Monster Kid from the bridge. It's faster. (Sorry!)
 
 ### Undyne
-- New strat to skip the first dialog and encounter. http://webm.host/5d78a/
+- New strat to skip the first dialog and encounter. Simply walk up to the left edge so that the character's left hand is slightly over the border. http://webm.host/5d78a/
 - Strat that saves ~6 seconds if your menuing is garbage, requires having bought a healing item in Snowdin: https://youtu.be/pRMu_rzQR1A
-- Hit `Challenge` as it makes the spears go faster.
-- `Flee` ASAP.
+- Hit `Challenge` as it makes the spears go faster. After Undyne unleashes her "kindergarten" attack it's faster to mash spare as her attacks will be at max speed for the rest of the fight.
+- Always block the last spear of an attack as Undyne's turn ends as soon as the last spear disappears.
+- `Flee` ASAP. When using both of these skips Undyne should only catch you twice: once in the second room for the main fight and once in the third room right before Papyrus' phone call. 
 - During the final phase, you want to finish off at `1 HP` by getting hit by three arrows and a spear at the end. This makes MTT's quiz go faster.
 
 Be sure to water your Undyne!
@@ -211,7 +216,7 @@ Pick up the `Stained Apron` (downward path after going up).
 
 ### Jumping Puzzle
 In case you forgot, left, down, down, up down, left, up, up, left.
-- Alternatively, there's a glitch you can do that requires you to open the menu the same frame(?) you land on the platform. http://webm.host/b71a6/
+- Alternatively, there's a glitch you can do that requires you to open the menu the frame after you land on the platform. Wait for the diagonal steam jet behind you to begin to disappear for a visual cue. http://webm.host/b71a6/
 - Consistent setup I found (for me) was mashing CTRL/C as you land onto the platform.
 
 ### Royal Guard
@@ -232,7 +237,7 @@ Hitting the second laser (downward puzzle) is faster!
 ### Slide Puzzle 3 (Down)
 Left, Up, Left, Left, Right, Fire
 
-### Slide Puzzle 3 (Up)
+### Slide Puzzle 4 (Up)
 Left, Right, Fire
 
 ### Miss Muffet
@@ -265,7 +270,10 @@ At the save point, go left immediately. Then down back to it, up, right, right. 
 Go left, then left again towards the puzzle.
 
 ### Slide Puzzle 5
+Take your pick of solutions:
 Up, Right, Up, Left, Left, Down, Left, Fire.
+Up, Up, Left, Down, Left, Down, Left, Fire. (Seemingly least awkward to do)
+Up, Left, Up, Left, Down, Down, Left, Fire.
 
 `SAVE` here to heal to full (NOT before Mettaton).
 
@@ -299,6 +307,7 @@ Equip the `Stained Apron` and the `Worn Dagger`. Drop a single item.
 
 Once you see the first bit of dialogue with Sans, you can quit the game and reload to spam skip the text.
 - Celestics doesn't do this in the WR, probably slower to quit out. Try what you want to.
+- It is slower by about 3 seconds to reset over perfect mashing based on a 6 second load time. If you can load faster than 3 seconds then knock yourself out.
 
 `SAVE` before the Asgore fight.
 
@@ -378,7 +387,7 @@ Mash through everything. It's a lot of mashing.
 No need to heal because the cutscene heals you.
 
 ### Asriel Dreemurr
-Wait for the music to kick in (rainbow effects), then `Hope` every time. Don't die and stuff.
+Wait for the music to kick in (rainbow effects), then `Hope` every time. You can buffer the first `Hope` by entering the dialogue and waiting for the music/background transition. Don't die and stuff.
 
 ### Asriel Dreemurr Kai Ni
 `Struggle` for 4 turns. If you got hit by a diamond in the previous phase, you will start at 1/20 HP. If so, kill yourself on turn 1, survive turns 2 and 3, then kill yourself on turn 4. If you do NOT get hit by the diamond, pray that you don't die at all. Remember - dying the first time loses 10 seconds, but if you would probably die anyways, save yourself the time and kill yourself at the start of the attack.
