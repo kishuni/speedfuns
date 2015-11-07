@@ -91,7 +91,9 @@ The best time possible for this segment is around 7:40, give or take a few secon
 Enemy | `ACT` | Notes
 :---- | :---- | :----
 Snowdrake | `Flee` |
+Ice Cap | `Flee` |
 Doggo | `Stick` |
+Lesser Dog | `Flee` |
 Married Dogs | `Stick` |
 Greater Dog | `Stick` |
 
@@ -108,22 +110,22 @@ Hit the switch before the Married Dogs. Make sure to flee from the Lesser Dog.
 Hit the switch in the tree with the large X/O puzzle.
 - If done correctly, you can press the switch without Papyrus' dialog triggering. He just floats across the top: http://www.twitch.tv/th3hatt3r/v/21373800
 
-The ice sliding puzzle has a specific strategy that saves 1 second as opposed to simply doing the cinnamon swirl solution. Look at the current record video to see how to do this. Current fastest solution: http://imgur.com/imntI5i
+From the Lesser Dog room walk into the ice puzzle room holding UP and RIGHT to hit the first two X's at once and then move RIGHT. The ice sliding puzzle has a specific strategy that saves 1.6 seconds as opposed to simply doing the cinnamon swirl solution. Practice buffering inputs between each slide or it won't work consistently. http://imgur.com/imntI5i 
 
-Say that `No` and `Even less` to the questions in the Colored Block puzzle room.
+Say `No` and `Even less` to the questions in the Colored Block puzzle room.
 
 If you get the BARK BARK attack from Greater Dog, you can skip it by running into the dog at the bottom.
 
 ## Snowdin Town
 
-Purchase the `Manly Bandanna (50 GOLD)` in the Shop. Don't equip it yet.
+Purchase the `Manly Bandanna (50 GOLD)` and a `Bisicle (15 GOLD)` in the Shop. Don't equip the bandanna yet.
 
 Take the Underground Tunnel to the other side of town.
 
 ### Papyrus
 It is faster to let him capture (kill) you three times (by 45 seconds!).
 
-Do this by using "Check" 3 times and running into 5 bones in the first fight. You will start out "blue" in the next two fights, proceed to spare him as normal.
+Do this by using `Check` 3 times and running into 5 bones in the first fight. You will start out "blue" in the next two fights, proceed to `Spare` him as normal.
 
 Head back to his home to hang out with him.
 
@@ -159,15 +161,15 @@ Wallhumping through castle is faster.
 In the next room talk to Monster Kid as soon as possible, it takes just over 4 seconds from the start of the dialogue before they will offer to lift you up. How you use this time is up to preference.
 
 ### Undyne Spears 2: The Reckoning
-You can manipulate these spears by moving all the way up or all the way down in a sort of zig-zag pattern.
+You can manipulate these spears by moving all the way up or all the way down in a sort of zig-zag pattern. You can walk through spears after they fully extend. Turn around on the last bridge as soon as the last set of spears begin to fade.
 
 ### Dummy!
 - Mash `SPARE`.
-- Hit him with as much cotton as possible. He can be three-cycled, although this is difficult.
-- Unlike the cotton, which is hit-based, the rockets are move-based.
-- Hit the knife to get rid of it faster.
+- Hit him with as much cotton as possible. He can be two-cycled, although this is difficult.
+- Unlike the cotton, which is hit-based, the rockets will always take 4 turns.
+- Getting hit by the knife will not end the turn any faster.
 
-`SAVE` here to heal to full.
+`SAVE` here to heal to full. It's very important to not take damage between here and Undyne.
 
 Purchase the `Cloudy Glasses`.
 
@@ -176,12 +178,11 @@ Memorize the pathing for the Mushroom Room and the Lantern Room. It is possible 
 Do not help Monster Kid from the bridge. It's faster. (Sorry!)
 
 ### Undyne
-- New strat to skip the first dialog and encounter. Simply walk up to the left edge so that the character's left hand is slightly over the border. http://webm.host/5d78a/
-- Strat that saves ~6 seconds if your menuing is garbage, requires having bought a healing item in Snowdin: https://youtu.be/pRMu_rzQR1A
-- Hit `Challenge` as it makes the spears go faster. After Undyne unleashes her "kindergarten" attack it's faster to mash spare as her attacks will be at max speed for the rest of the fight.
-- Always block the last spear of an attack as Undyne's turn ends as soon as the last spear disappears.
-- `Flee` ASAP. When using both of these skips Undyne should only catch you twice: once in the second room for the main fight and once in the third room right before Papyrus' phone call. 
-- During the final phase, you want to finish off at `1 HP` by getting hit by three arrows and a spear at the end. This makes MTT's quiz go faster.
+- New strat to skip the first dialog and encounter. Simply walk up into the left edge so that the character's left hand is slightly over the border (while facing upward) and move up to the trigger. Once Undyne's dialogue finishes hold down until you reach the room transition (below the black area) and immediately move up. http://webm.host/5d78a/
+- Intentionally get hit by at least one spear in Undyne's first attack pattern four times. Always block the last spear in any of her attacks as Undyne's turn ends as soon as the last spear disappears. https://youtu.be/pRMu_rzQR1A
+- `Challenge` will make the spears move faster for the first four turns, however, the extra time spent menuing is actually the same or even SLOWER than just mashing `Spare`. After Undyne unleashes her "kindergarten" attack the spears will remain at max speed for the rest of the fight, regardless of how many times you used `Challenge`. Conituning to select `Challenge` beyond this point can be up to 7 seconds SLOWER.
+- `Flee` ASAP. When using both of these skips Undyne should only catch you twice: once in the second room for the main fight and once in the third room right before Papyrus' phone call. If you don't mash through the phone call fast enough she can catch you again at the end of the room. 
+- During the final phase, you want to finish off at `1-3 HP` by getting hit by three arrows and a spear at the end. This makes MTT's quiz go faster.
 
 Be sure to water your Undyne!
 
@@ -216,7 +217,7 @@ Pick up the `Stained Apron` (downward path after going up).
 
 ### Jumping Puzzle
 In case you forgot, left, down, down, up down, left, up, up, left.
-- Alternatively, there's a glitch you can do that requires you to open the menu the frame after you land on the platform. Wait for the diagonal steam jet behind you to begin to disappear for a visual cue. http://webm.host/b71a6/
+- Alternatively, there's a glitch you can do that requires you to open the menu the frame after you land on the platform. Watch the bottom of the steam jet that launches you for a visual cue when it begins to fade. http://webm.host/b71a6/
 - Consistent setup I found (for me) was mashing CTRL/C as you land onto the platform.
 
 ### Royal Guard
@@ -321,6 +322,7 @@ Once you see the first bit of dialogue with Sans, you can quit the game and relo
 ## My World
 
 ### Omega Flowey
+It's not possible to die during soul phases, brave the damage to hit each `ACT` faster.
 - Phase 1: Knives go the direction `ACT` will be.
 - Phase 2: Top left of the room for the `ACT` during the gloves.
 - Phase 3: All the way to the right to get to the `ACT`.
