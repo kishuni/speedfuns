@@ -272,9 +272,9 @@ Go left, then left again towards the puzzle.
 
 ### Slide Puzzle 5
 Take your pick of solutions:
-Up, Right, Up, Left, Left, Down, Left, Fire.
-Up, Up, Left, Down, Left, Down, Left, Fire. (Seemingly least awkward to do)
-Up, Left, Up, Left, Down, Down, Left, Fire.
+- Up, Right, Up, Left, Left, Down, Left, Fire.
+- Up, Up, Left, Down, Left, Down, Left, Fire. (Seemingly least awkward to do)
+- Up, Left, Up, Left, Down, Down, Left, Fire.
 
 `SAVE` here to heal to full (NOT before Mettaton).
 
