@@ -118,7 +118,7 @@ If you get the BARK BARK attack from Greater Dog, you can skip it by running int
 
 ## Snowdin Town
 
-Purchase the `Manly Bandanna (50 GOLD)` and a `Bisicle (15 GOLD)` in the Shop. Don't equip the bandanna yet.
+Purchase the `Manly Bandanna (50 GOLD)` (and a `Bisicle (15 GOLD)` for Undyne if necessary) in the Shop. Don't equip the bandanna yet.
 
 Take the Underground Tunnel to the other side of town.
 
@@ -165,11 +165,12 @@ You can manipulate these spears by moving all the way up or all the way down in 
 
 ### Dummy!
 - Mash `SPARE`.
-- Hit him with as much cotton as possible. He can be two-cycled, although this is difficult.
+- Hit it with as much cotton as possible. 
+- It's possible to finish the first phase of the fight during the second red dummy attack, although this is difficult.
 - Unlike the cotton, which is hit-based, the rockets will always take 4 turns.
-- Getting hit by the knife will not end the turn any faster.
+- It is NOT faster to get hit by the rockets or the knife. 
 
-`SAVE` here to heal to full. It's very important to not take damage between here and Undyne.
+`SAVE` here to heal to full. Avoid taking damage between now and Undyne or it will make the following skips much more difficult.
 
 Purchase the `Cloudy Glasses`.
 
@@ -183,6 +184,12 @@ Do not help Monster Kid from the bridge. It's faster. (Sorry!)
 - `Challenge` will make the spears move faster for the first four turns, however, the extra time spent menuing is actually the same or even SLOWER than just mashing `Spare`. After Undyne unleashes her "kindergarten" attack the spears will remain at max speed for the rest of the fight, regardless of how many times you used `Challenge`. Conituning to select `Challenge` beyond this point can be up to 7 seconds SLOWER.
 - `Flee` ASAP. When using both of these skips Undyne should only catch you twice: once in the second room for the main fight and once in the third room right before Papyrus' phone call. If you don't mash through the phone call fast enough she can catch you again at the end of the room. 
 - During the final phase, you want to finish off at `1-3 HP` by getting hit by three arrows and a spear at the end. This makes MTT's quiz go faster.
+
+
+- Newer, riskier strat that skips Undyne's 3rd phase (instead of her 2nd) and saves over 40 seconds from the above method.
+- Start off with the glitch warp in the first room to get to the second room without fighting. Fight Undyne in the second room like before but instead block all of her attacks and `Challenge` her for the first four turns, then `Spare`for the last two. Try not to take damage at least until the last turn as Undyne will slow her attacks if you get hit. `Flee` when you turn red and run into the next room. 
+- Don't move right in the next room until you see the marquee start to scroll (about .25-.5 seconds). If done correctly your character should be almost directly under the left part of the 'W' on the sign when Undyne catches up to you. Remember to take enough damage during both fights for the Mettaton Quiz Skip. 
+- `Challenge` Undyne until you can `Flee` again then move right and mash through the dialogue. If the timng was right, Undyne won't be able to catch up to you before reaching the next screen. https://youtu.be/HmG9zoRrEGU
 
 Be sure to water your Undyne!
 
@@ -202,6 +209,9 @@ Go to the top so when Alphys comes out of the elevator, it saves walking time. S
 
 Save after the Lab to heal to full. There's a save point two maps after the lab.
 
+### Lasers Tutorial
+Walk along the bottom row at the start of this room to avoid Alphys' phone call explaining laser movement. The saves around 2.50 seconds. (Credit to Wolfiexe)
+
 ### Slide Puzzle 1 (Right)
 Up, Left, Fire
 
@@ -215,14 +225,18 @@ Up, Left, Down, Left, Fire
 
 Pick up the `Stained Apron` (downward path after going up).
 
+### Conveyor Belt Puzzle
+It's possible to trigger the third button before Alphys can call to interrupt you. Doing this glitches the dialogue, loudly, but opens the forcefield. It can save up to 1 second over dialogue mashing but doing this wrong can also crash the game; BE WARNED.
+
 ### Jumping Puzzle
 In case you forgot, left, down, down, up down, left, up, up, left.
 - Alternatively, there's a glitch you can do that requires you to open the menu the frame after you land on the platform. Watch the bottom of the steam jet that launches you for a visual cue when it begins to fade. http://webm.host/b71a6/
 - Consistent setup I found (for me) was mashing CTRL/C as you land onto the platform.
 
 ### Royal Guard
-- `Clean Armor` for Guard 02.
+- `Clean Armor` for Guard 02. You only need to touch the green part 5 times.
 - `Whisper` to Guard 01.
+- `SPARE`
 
 ### MTT News
 - The Script has the fastest dialogue.
@@ -281,6 +295,7 @@ Take your pick of solutions:
 ### Mettaton Kai Ni
 - Don't fire first turn. Saves dialogue time.
 - Check last turn (boxes with bomb in middle as last attack). Saves time.
+- Restarting here is NOT faster as the game files do not save until Death By Glamour begins.
 
 # `OHHHHH YES!`
 - You need 12k ratings to finish the battle. You start with 4k.
@@ -353,11 +368,11 @@ Head to True Lab.
 
 Enemy | `ACT` | Notes
 :---- | :---- | :----
-Amalgamate (Sink) | `CELL+Refuse+Spare` |
-Amalgamate (Dog) | `Stick+Spare` |
-Amalgamate (Save) | `Unhug+Hum+Flex+Spare` |
+Memory Head (Sink) | `CELL+Refuse+Spare` |
+Endogeny (Dog) | `Stick+Spare` |
+Lemon Bread (Save) | `Unhug+Hum+Flex+Spare` |
 Amalgamate (Fridge) | `Joke+Joke+Joke` |
-Amalgamate (Mirror) | `Pray+Mystify+Pick On+Spare` |
+Reaper Bird (Mirror) | `Pray+Mystify+Pick On+Spare` |
 
 Go left first to fight the Sink Amalgamate and grab the key.
 - Mash at the first sink instead of turning all three on.
