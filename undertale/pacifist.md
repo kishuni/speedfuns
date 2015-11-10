@@ -118,7 +118,7 @@ If you get the BARK BARK attack from Greater Dog, you can skip it by running int
 
 ## Snowdin Town
 
-Purchase the `Manly Bandanna (50 GOLD)` and a `Bisicle (15 GOLD)` in the Shop. Don't equip the bandanna yet.
+Purchase the `Manly Bandanna (50 GOLD)` (and a `Bisicle (15 GOLD)` for Undyne if necessary) in the Shop. Don't equip the bandanna yet.
 
 Take the Underground Tunnel to the other side of town.
 
@@ -184,6 +184,7 @@ Do not help Monster Kid from the bridge. It's faster. (Sorry!)
 - `Challenge` will make the spears move faster for the first four turns, however, the extra time spent menuing is actually the same or even SLOWER than just mashing `Spare`. After Undyne unleashes her "kindergarten" attack the spears will remain at max speed for the rest of the fight, regardless of how many times you used `Challenge`. Conituning to select `Challenge` beyond this point can be up to 7 seconds SLOWER.
 - `Flee` ASAP. When using both of these skips Undyne should only catch you twice: once in the second room for the main fight and once in the third room right before Papyrus' phone call. If you don't mash through the phone call fast enough she can catch you again at the end of the room. 
 - During the final phase, you want to finish off at `1-3 HP` by getting hit by three arrows and a spear at the end. This makes MTT's quiz go faster.
+
 
 - Newer, riskier strat that skips Undyne's 3rd phase (instead of her 2nd) and saves over 40 seconds from the above method.
 - Start off with the glitch warp in the first room to get to the second room without fighting. Fight Undyne in the second room like before but instead block all of her attacks and `Challenge` her for the first four turns, then `Spare`for the last two. Try not to take damage at least until the last turn as Undyne will slow her attacks if you get hit. `Flee` when you turn red and run into the next room. 
