@@ -197,7 +197,7 @@ For 2-Cycle Strats: https://youtu.be/HmG9zoRrEGU (Harder of the two but faster.)
 - Don't move right in the next room until you see the marquee start to scroll (about .25-.5 seconds). If done correctly your character should be almost directly under the left part of the 'W' on the sign when Undyne catches up to you. Remember to take enough damage during both fights for the Mettaton Quiz Skip. 
 - `Challenge` Undyne until you can `Flee` again then move right and mash through the dialogue. If the timng was right, Undyne won't be able to catch up to you before reaching the next screen.
 
-###### Practice this
+##### Practice this
 - Strat to skip the first dialog and encounter. Simply walk up into the left edge so that the character's left hand is slightly over the border (while facing upward) and move up to the trigger. Once Undyne's dialogue finishes hold down until you reach the room transition (below the black area) and immediately move up. http://webm.host/5d78a/
 
 Be sure to water your Undyne!
@@ -289,9 +289,9 @@ Blue Blue Orange
 
 Go right when Alphys told you to go up (you have played the game, right??).
 
-At the save point, go left immediately. Then down back to it, up, right, right. Saving at Mettaton wastes time but can be used as a safe strat if you're learning the route.
+At the save point, go left, then left again towards the puzzle.
 
-Go left, then left again towards the puzzle.
+After the puzzle, go back down back to the save point, then up, right, right. Saving at Mettaton wastes time but can be used as a safe strat if you're learning the route.
 
 ### Slide Puzzle 5
 Take your pick of solutions:
@@ -301,12 +301,13 @@ Take your pick of solutions:
 
 `SAVE` here to heal to full (NOT before Mettaton).
 
-### Mettaton Kai Ni
+
+## Mettaton Kai Ni
 - Don't fire first turn. Saves dialogue time.
 - Check last turn (boxes with bomb in middle as last attack). Saves time.
 - Restarting here is NOT faster as the game files do not save until Death By Glamour begins.
 
-# `OHHHHH YES!`
+### `OHHHHH YES!`
 - You need 12k ratings to finish the battle. You start with 4k.
 - Equip the `Faded Ribbon (+1500 > 5500)`.
 - Equip the `Manly Bandanna (+1500 > 7000)`
