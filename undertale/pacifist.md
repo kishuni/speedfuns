@@ -179,17 +179,26 @@ Memorize the pathing for the Mushroom Room and the Lantern Room. It is possible 
 Do not help Monster Kid from the bridge. It's faster. (Sorry!)
 
 ### Undyne
-- New strat to skip the first dialog and encounter. Simply walk up into the left edge so that the character's left hand is slightly over the border (while facing upward) and move up to the trigger. Once Undyne's dialogue finishes hold down until you reach the room transition (below the black area) and immediately move up. http://webm.host/5d78a/
-- Intentionally get hit by at least one spear in Undyne's first attack pattern four times. Always block the last spear in any of her attacks as Undyne's turn ends as soon as the last spear disappears. https://youtu.be/pRMu_rzQR1A
-- `Challenge` will make the spears move faster for the first four turns, however, the extra time spent menuing is actually the same or even SLOWER than just mashing `Spare`. After Undyne unleashes her "kindergarten" attack the spears will remain at max speed for the rest of the fight, regardless of how many times you used `Challenge`. Conituning to select `Challenge` beyond this point can be up to 7 seconds SLOWER.
-- `Flee` ASAP. When using both of these skips Undyne should only catch you twice: once in the second room for the main fight and once in the third room right before Papyrus' phone call. If you don't mash through the phone call fast enough she can catch you again at the end of the room. 
-- During the final phase, you want to finish off at `1-3 HP` by getting hit by three arrows and a spear at the end. This makes MTT's quiz go faster.
+There's multiple strats for this fight but I'll sort them.
+
+For Kindergarden Strats: https://youtu.be/pRMu_rzQR1A (requires buying the `Bisicle` in Snowdin. Also easier of the two.)
+For 2-Cycle Strats: https://youtu.be/HmG9zoRrEGU (Harder of the two but faster.)
+
+##### Kindergarden Strats
+- For this you do not need to perform the warp glitch (below) but it's faster for you to do so.
+- Intentionally get hit by at least one spear in Undyne's first attack pattern four times. Always block the last spear in any of her attacks as Undyne's turn ends as soon as the last spear disappears. 
+- `Challenge` will make the spears move faster for the first four turns, however, the extra time spent menuing is actually the same or even SLOWER than just mashing `Spare`. After Undyne unleashes her "kindergarten" attack the spears will remain at max speed for the rest of the fight, regardless of how many times you used `Challenge`. Continuing to select `Challenge` beyond this point can be up to 7 seconds SLOWER.
+- `Flee` ASAP. When using both of these skips Undyne should only catch you twice: once in the second room for the main fight and once in the third room right before Papyrus' phone call. If not timed properly, she will catch you again in the third room.
 
 
+##### 2-Cycle Strats
 - Newer, riskier strat that skips Undyne's 3rd phase (instead of her 2nd) and saves over 40 seconds from the above method.
-- Start off with the glitch warp in the first room to get to the second room without fighting. Fight Undyne in the second room like before but instead block all of her attacks and `Challenge` her for the first four turns, then `Spare`for the last two. Try not to take damage at least until the last turn as Undyne will slow her attacks if you get hit. `Flee` when you turn red and run into the next room. 
+- Start off with the glitch warp (below) in the first room to get to the second room without fighting. Fight Undyne in the second room like before but instead block all of her attacks and `Challenge` her for the first four turns, then `Spare`for the last two. Try not to take damage at least until the last turn as Undyne will slow her attacks if you get hit. `Flee` when you turn red and run into the next room.
 - Don't move right in the next room until you see the marquee start to scroll (about .25-.5 seconds). If done correctly your character should be almost directly under the left part of the 'W' on the sign when Undyne catches up to you. Remember to take enough damage during both fights for the Mettaton Quiz Skip. 
-- `Challenge` Undyne until you can `Flee` again then move right and mash through the dialogue. If the timng was right, Undyne won't be able to catch up to you before reaching the next screen. https://youtu.be/HmG9zoRrEGU
+- `Challenge` Undyne until you can `Flee` again then move right and mash through the dialogue. If the timng was right, Undyne won't be able to catch up to you before reaching the next screen.
+
+###### Practice this
+- Strat to skip the first dialog and encounter. Simply walk up into the left edge so that the character's left hand is slightly over the border (while facing upward) and move up to the trigger. Once Undyne's dialogue finishes hold down until you reach the room transition (below the black area) and immediately move up. http://webm.host/5d78a/
 
 Be sure to water your Undyne!
 
@@ -226,7 +235,7 @@ Up, Left, Down, Left, Fire
 Pick up the `Stained Apron` (downward path after going up).
 
 ### Conveyor Belt Puzzle
-It's possible to trigger the third button before Alphys can call to interrupt you. Doing this glitches the dialogue, loudly, but opens the forcefield. It can save up to 1 second over dialogue mashing but doing this wrong can also crash the game; BE WARNED.
+It's possible to trigger the third button before Alphys can call to interrupt you. Doing this glitches the dialogue, loudly, but opens the forcefield. It can save up to 1 second over dialogue mashing but doing this wrong can also crash the game; BE WARNED. https://youtu.be/ocBtQ76tMJo
 
 ### Jumping Puzzle
 In case you forgot, left, down, down, up down, left, up, up, left.
