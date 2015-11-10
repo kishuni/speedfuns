@@ -182,6 +182,7 @@ Do not help Monster Kid from the bridge. It's faster. (Sorry!)
 There's multiple strats for this fight but I'll sort them.
 
 For Kindergarden Strats: https://youtu.be/pRMu_rzQR1A (requires buying the `Bisicle` in Snowdin. Also easier of the two.)
+
 For 2-Cycle Strats: https://youtu.be/HmG9zoRrEGU (Harder of the two but faster.)
 
 ##### Kindergarden Strats
